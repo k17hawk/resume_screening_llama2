@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+
+selenium
+nltk
+spacy
+pyresparser
+pdfminer
+replicate
+streamlit_option_menu
+streamlit_tags

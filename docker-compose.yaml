@@ -1,0 +1,9 @@
+# docker-compose.yml
+
+version: '3'
+services:
+  gemini_app:
+    build:
+      context: .
+    ports:
+      - "4000:8501"
